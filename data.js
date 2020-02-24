@@ -10,10 +10,10 @@ const data = {
      */
 
     "general": {
-        "firstName": "Andrei",      // fill in with your own first name
-        "lastName": "Tarkovsky",    // fill in with your own last name
-        "class": "1NMD",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
-        "studentnumber": "8675309"  // fill in with your student number
+        "firstName": "Michiel",      // fill in with your own first name
+        "lastName": "Dewijze",    // fill in with your own last name
+        "class": "1AVDb",            // fill in with your class/group e.g. 1AVDa, 1CMOa, 1NMD, ...
+        "studentnumber": "113300"  // fill in with your student number
     },
 
     /**
